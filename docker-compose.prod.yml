@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: benjictln/my_website
+    image: benjictln/my_website
+    build:
+      context: .
+      target: production
