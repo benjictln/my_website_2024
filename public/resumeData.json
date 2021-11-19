@@ -6,11 +6,12 @@
     "image": "profilepic.jpg",
     "bio": "I am a french software engineer, that decided to settle in Dubai for the quality of life. When not coding, I enjoy playing football and doing other sports.",
     "contactmessage": "Feel free to contact me if we can work together in the future.",
-    "email": "benjamincastellanpro+freelance@gmail.com",
+    "email": "benjamincastellanpro@gmail.com",
     "phone": "",
     "address": {
       "street": "Dubai Internet City #16",
       "city": "Dubai",
+      "po_box": "P.O. Box: 500559",
       "state": "",
       "zip": "UAE"
     },
