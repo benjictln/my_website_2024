@@ -38,8 +38,6 @@ class Contact extends Component {
 					   <h4>Address</h4>
 					   <p className="address">
 						   {name}<br />
-						   {street} <br />
-						   {poBox} <br />
 						   {city}, {state} {zip}<br />
 					   </p>
 				   </div>

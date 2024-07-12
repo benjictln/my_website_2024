@@ -2,20 +2,17 @@
   "main": {
     "name": "Benjamin Castellan",
     "occupation": "Software Engineer",
-    "description": "Hey there \uD83D\uDC4B I am a freelance Software Engineer based in Dubai",
+    "description": "Hey there \uD83D\uDC4B I am a freelance Software Engineer based in Paris",
     "image": "profilepic.jpg",
-    "bio": "I am a french software engineer, that decided to settle in Dubai for the quality of life. When not coding, I enjoy playing football and doing other sports.",
+    "bio": "I am a french software engineer, that decided to settle in Paris for the quality of life. When not coding, I enjoy playing football and doing other sports.",
     "contactmessage": "Feel free to contact me if we can work together in the future.",
     "email": "benjamincastellanpro@gmail.com",
     "phone": "",
     "address": {
-      "street": "Dubai Internet City #16",
-      "city": "Dubai",
-      "po_box": "P.O. Box: 500559",
+      "city": "Paris",
       "state": "",
-      "zip": "UAE"
+      "zip": "France"
     },
-    "website": "https://benjamin.castellan.fr",
     "social": [
       {
         "name": "linkedin",
@@ -62,23 +59,23 @@
     "skills": [
       {
         "name": "Android development (Kotlin / Java)",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "iOS development (Swift)",
-        "level": "70%"
+        "level": "85%"
       },
       {
         "name": "Git",
-        "level": "68%"
+        "level": "78%"
       },
       {
         "name": "MySQL",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "ReactJS",
-        "level": "55%"
+        "level": "65%"
       },
       {
         "name": "Python",
