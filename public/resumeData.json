@@ -4,8 +4,8 @@
     "occupation": "Software Engineer",
     "description": "Hey there \uD83D\uDC4B I am a freelance Software Engineer based in Paris",
     "image": "profilepic.jpg",
-    "bio": "I am a french software engineer, that decided to settle in Paris for the quality of life. When not coding, I enjoy playing football and doing other sports.",
-    "contactmessage": "Feel free to contact me if we can work together in the future.",
+    "bio": "I am a french software engineer, currently living in Paris, but I also lived in Singapore, Dubai, South Korea and in the south of France. I started learning coding in 2014, and started my first programming job in 2018 and still enjoy coding everyday. I also travelled through South America during six months just before Covid hit.",
+    "contactmessage": "If you have a project and need a professional and talented software engineer, please send me an email.",
     "email": "benjamincastellanpro@gmail.com",
     "phone": "",
     "address": {
@@ -29,7 +29,7 @@
   "resume": {
     "education": [
       {
-        "school": "Telecom Paris, member of the Institut Polytechnique de Paris",
+        "school": "Telecom Paris (Institut Polytechnique de Paris)",
         "degree": "Master degree in Computer Science",
         "graduated": "June 2019",
         "description": "Studied various field such as System security, embedded systems and machine learning."
@@ -44,13 +44,19 @@
     "work": [
       {
         "company": "DXM Solutions",
-        "title": "Junior mobile developer - Lead mobile developer",
+        "title": "Junior mobile developer - Lead mobile developer (remote)",
         "years": "February 2018 - Now",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Led end-to-end development across iOS, Android, and backend platforms, driving continuous improvement and feature expansion to enhance user experience and functionality."
+      },
+      {
+        "company": "SoftAtHome",
+        "title": "iOS Developer (remote, from Dubai)",
+        "years": "February 2022 - April 2022",
+        "description": "Implemented new functionality to enhance the iOS application's feature set and user experience."
       },
       {
         "company": "Delicorner",
-        "title": "Lead developer",
+        "title": "Lead developer (Paris, France)",
         "years": "January 2021 - October 2021",
         "description": "Was in charge of all the development for the websites used internally and by the clients and for the app and the server."
       }
@@ -58,20 +64,20 @@
     "skillmessage": "",
     "skills": [
       {
-        "name": "Android development (Kotlin / Java)",
+        "name": "Android development (Kotlin / Java / Jetpack Compose)",
         "level": "90%"
       },
       {
-        "name": "iOS development (Swift)",
+        "name": "iOS development (Swift / SwiftUI)",
         "level": "85%"
       },
       {
         "name": "Git",
-        "level": "78%"
+        "level": "90%"
       },
       {
         "name": "MySQL",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "ReactJS",
