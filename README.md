@@ -1,3 +1,8 @@
+## Push new changes (from 2024)
+
+just push to github -> will be automatically deployed :) 
+
+
 ### To link the local image to google registry
 docker tag benjictln/my_website eu.gcr.io/personal-website-249708/my_website
 
